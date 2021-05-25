@@ -17,7 +17,7 @@ WebCamを使用して、 マスクを自動的に削除します。
 これは、動画中のマスクをした人から、ディープラーニングを用いて「マスクを削除」
 し、削除した部分をAIが「想像で描き直す」ものになります。
 
-![result](https://github.com/so-jun/MaskEraser/blob/main/git.gif)
+![result](https://github.com/INTEC-ATI/MaskEraser/blob/main/git.gif)
 Based video by Pavel Danilyuk from Pexels
 
 # Story
