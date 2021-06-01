@@ -1,7 +1,6 @@
 # MaskeEraser
 # DEMO
-
-Youtube Coming Soon
+[![Youtube](https://img.youtube.com/vi/_64TB1FESc8/0.jpg)](https://www.youtube.com/watch?v=_64TB1FESc8)
 
 # Features
 The MaskEraser project uses the NVIDIA Jetson Development Kit series 
