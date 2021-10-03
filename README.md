@@ -127,7 +127,7 @@ It takes about 2 days for Quadro RTX 8000.
 The training part has NOT been tested with Jetson Nano.
 
 ### IF download trained model
-https://github.com/INTEC-ATI/MaskEraser/releases/download/v1.0/100000.pth  
+https://github.com/INTEC-ATI/MaskEraser/releases/download/v0.1/100000.pth  
 Download the model from the URL. Then place them in your weight folder.
 ```
 MaskeEraser
