@@ -81,7 +81,7 @@ pip3 install -U pip
 
 # ---------------------Pytorch---------------------
 wget https://nvidia.box.com/shared/static/p57jwntv436lfrd78inwl7iml6p13fzh.whl -O torch-1.8.0-cp36-cp36m-linux_aarch64.whl
-python3 -m pip install pillow Cython numpy torch-1.7.0-cp36-cp36m-linux_aarch64.whl
+python3 -m pip install pillow Cython numpy torch-1.8.0-cp36-cp36m-linux_aarch64.whl
 # ---------------------Torchvision---------------------
 git clone --branch v0.9.0 https://github.com/pytorch/vision torchvision
 cd torchvision
